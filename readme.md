@@ -5,7 +5,7 @@ Problem
  - run a node express application
  - ensure tcp is forwarded to correct port
 
-View the Html Page: <a href="http://3.6.89.119:3000/">Click here</a>
+View with backend server: <a href="http://3.6.89.119:3000/">Click here</a>
 
 Setup EC2 instance:
  - click on services
