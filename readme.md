@@ -80,3 +80,6 @@ app.listen(PORT,()=>{
  - sudo npm install pm2 -g
  - pm2 start index.js
  - pm2 monit
+
+# Pictorial View:
+![Screenshot (394)](https://user-images.githubusercontent.com/80479635/161309778-7b1881e6-f773-4f1d-a46e-30ccf52f4154.png)
